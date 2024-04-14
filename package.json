@@ -1,0 +1,29 @@
+{
+  "name": "hu5veeconvert",
+  "version": "1.0.0",
+  "description": "hu5veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easternhewetthewett/hu5veeconvert.git"
+  },
+  "keywords": [
+    "hu5veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "easternhewetthewett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/easternhewetthewett/hu5veeconvert/issues"
+  },
+  "homepage": "https://github.com/easternhewetthewett/hu5veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
